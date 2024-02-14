@@ -5,13 +5,15 @@ Construindo um classificador Naive-Bayes para determinar o sentimento de um come
 ## ⚙️ Configurando ambiente
 
 1. Instalando um container com `pyspark` e `jupyter lab`.
+
    (site https://hub.docker.com/r/jupyter/pyspark-notebook)
 
    ```bash
+    # Em um terminal na pasta do projeto :
     docker pull jupyter/pyspark-notebook
    ```
 
-2. Inicializando o ambiente de trabalho.
+3. Inicializando o ambiente de trabalho.
 
    ```bash
         docker run \
