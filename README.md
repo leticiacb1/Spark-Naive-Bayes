@@ -54,4 +54,5 @@ Construindo um classificador Naive-Bayes para determinar o sentimento de um come
 
    Para facilitar esse processo escrevi esse comando no arquivo `inicia.sh`.
 
+4. Abra o jupyter notebook do projeto (`projeto_spark.ipynb`) no container !
    
